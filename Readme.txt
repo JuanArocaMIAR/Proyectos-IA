@@ -40,8 +40,8 @@ Recientemente, he completado un proyecto emocionante que se centra en la clasifi
 
 **Enlace al Repositorio:**
 
-Puedes explorar los notebooks y el código fuente completo del proyecto en el siguiente enlace: [Proyectos de IA en GitHub](https://github.com/JuanArocaMIAR/Proyectos-IA)
+Puedes explorar los notebooks y el código fuente completo del proyecto en el siguiente enlace: https://github.com/JuanArocaMIAR/Proyectos-IA
 
 **Contacto:**
 
-Para cualquier pregunta o colaboración, no dudes en contactarme a través de juan.arocap@outlook.es o en .
+Para cualquier pregunta o colaboración, no dudes en contactarme a través de juan.arocap@outlook.es o en https://www.linkedin.com/in/juan-aroca-perez/.
