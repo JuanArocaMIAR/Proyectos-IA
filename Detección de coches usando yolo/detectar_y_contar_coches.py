@@ -88,6 +88,6 @@ def procesar_video(cap):
 
 # Ejemplo de uso con un archivo de video
 if __name__ == "__main__":
-    video_path = r"C:\Users\juanb\Desktop\MOVIDAS\AI\Proyectos\Computer Vision\Deteccion coches\coches_autovia.mp4"  # Reemplazar con la ruta correcta
+    video_path = "ruta_video_prueba.mp4"  # Reemplazar con la ruta correcta
     cap = cv2.VideoCapture(video_path)
     procesar_video(cap)
